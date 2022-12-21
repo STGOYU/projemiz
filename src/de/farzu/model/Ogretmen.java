@@ -34,15 +34,15 @@ public class Ogretmen extends Personel{
     @Override
     public String toString() {
         return "Ogretmen{" +
-                "brans='" + brans + '\'' +
-                ", isim='" + isim + '\'' +
-                ", soyIsim='" + soyIsim + '\'' +
-                ", telNo='" + telNo + '\'' +
-                ", adres='" + adres + '\'' +
-                ", tcNo='" + tcNo + '\'' +
-                ", sigortaNo='" + sigortaNo + '\'' +
-                ", personelNo='" + personelNo + '\'' +
-                ", sayac=" + sayac +
+                "brans'" + brans + '\'' +
+                ", isim'" + isim + '\'' +
+                ", soyIsim'" + soyIsim + '\'' +
+                ", telNo'" + telNo + '\'' +
+                ", adres'" + adres + '\'' +
+                ", tcNo'" + tcNo + '\'' +
+                ", sigortaNo'" + sigortaNo + '\'' +
+                ", personelNo'" + personelNo + '\'' +
+                ", sayac" + sayac +
                 '}';
     }
 //endregion
